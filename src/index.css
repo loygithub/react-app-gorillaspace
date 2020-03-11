@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.landingpage-container {
+    /* background-image: url('./imgs/GS_CO\ Homepage\ Illustrations-01.svg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 100vh; */
+    background-image: url('./imgs/GS_CO\ Homepage\ Illustrations-01.svg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: auto;
+    height: 121vh;
+    
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.Find-your-ideal-workspace-or-venue-We-are-now-in-2-cities {
+    width: 523px;
+    height: 150px;
+    font-family: Montserrat;
+    font-size: 44px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.09;
+    letter-spacing: normal;
+    text-align: left;
+    color: #222222;
 }
